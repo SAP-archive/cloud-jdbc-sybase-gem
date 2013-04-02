@@ -1,4 +1,3 @@
-cloud-activerecord-sybase-ase-adapter
+cloud-jdbc-sybase-gem
 =====================================
 
-ActiveRecord JDBC adapter for SAP Sybase ASE
