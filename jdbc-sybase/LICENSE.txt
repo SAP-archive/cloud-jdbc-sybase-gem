@@ -1,0 +1,1 @@
+This gem bundles the Sybase ASE JDBC driver for Java.
